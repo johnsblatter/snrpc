@@ -2,8 +2,8 @@
 SNRPC 
 
 ---------------------
-[![Security Status](http://qa.meterian.io/badge/gh/johnsblatter/snrpc/security)](http://qa.meterian.io/report/gh/johnsblatter/snrpc)
-[![Defect Status](http://qa.meterian.io/badge/gh/johnsblatter/snrpc/defect)](http://qa.meterian.io/report/gh/johnsblatter/snrpc)
+[![Security Status](https://www.meterian.io/badge/gh/johnsblatter/snrpc/security)](https://www.meterian.io/report/gh/johnsblatter/snrpc)
+[![Defect Status](https://www.meterian.io/badge/gh/johnsblatter/snrpc/defect)](https://www.meterian.io/report/gh/johnsblatter/snrpc)
 
 --------------------
  -- a simple netty RPC framework
